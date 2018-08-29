@@ -1,2 +1,2 @@
 # OpenVRMetal
-OpenVR + Metal (macOS)
+OpenVRMetal is a collection of utility classes to make it easier to work with [OpenVR](https://github.com/ValveSoftware/openvr) + [Metal](https://developer.apple.com/metal/) on macOS. See the [Wiki](https://github.com/cbirkhold/OpenVRMetal/wiki) for details.
